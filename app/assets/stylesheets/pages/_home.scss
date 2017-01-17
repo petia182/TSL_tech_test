@@ -2,3 +2,43 @@
  * CSS code specific to home page
  * (margin/padding adjustments)
  * ------------------------------------- */
+ .info-text {
+   margin: 23px 300px 38px 300px;
+   color: #656667;
+   font-size: 20px;
+ }
+
+ .card i {
+  font-size: 150px;
+  padding: 60px 60px;
+  color: #398FDA;
+}
+
+.wrapper h1 {
+  color: #398FDA;
+}
+
+.share-links {
+  margin-bottom: 30px;
+  i {
+    font-size: 30px;
+  }
+}
+
+* {
+  .border-radius: (0) !important ;
+}
+
+#field {
+    margin-bottom:20px;
+    color: black;
+    width: 300px;
+}
+
+#field1 {
+  width: 300px;
+  margin-left: 70px;
+}
+.input-append {
+  width: 400px;
+}
